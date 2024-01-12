@@ -1,24 +1,28 @@
 # Hi there! 👋 I'm Abdulrazaq
 
-I'm a passionate software engineer and computer scientist with a strong desire for continuous learning and innovation. Welcome to my GitHub profile, where you can explore some of my projects and contributions in the world of technology.
+I am a dedicated fullstack software engineer and computer scientist with a strong passion for continuous learning and innovation. Feel free to explore my GitHub profile, where you can find a collection of my projects and contributions in the dynamic world of technology.
 
 ## About Me
 
 - 🎓 A certified Software engineer
-- 🎓 I hold a degree in Computer Science from ATBU.
-- 💼 Currently working as a full stack software Engineer at ALX Africa.
-- 🔍 I'm interested in Backend development.
+- 🎓 I have a Bachelor of Technology in Computer Science from ATBU.
+- 💼 I have work experience as a full-stack software engineer at ALX Africa
+- 🔍 I'm interested in Frontend/Backend development, Artificial Intellenge, Data Science
 - 🌐 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/abdulrazaq-babi-778960183).
 
 ## Skills
 
 Here are some of the technologies and programming languages I'm proficient in:
 
-- 🔧 C
-- 🔧 Python
 - 🔧 JavaScript
-- 🔧 Java
+- 🔧 React
 - 🔧 Nodejs
+- 🔧 Mongodb
+- 🔧 Java
+- 🔧 Python
+- 🔧 Flask
+- 🔧 C
+- 🔧 SQL, NOSQL
 
 ## Projects
 
