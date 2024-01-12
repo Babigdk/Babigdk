@@ -31,6 +31,7 @@ Here are a few projects I've worked on:
 - [Simple shell project](https://github.com/Babigdk/simple_shell): This project was meant to understand how shell operate
 - [AirBnB](https://github.com/Babigdk/AirBnB_clone): Hotel reservation web application
 - [printf](https://github.com/Babigdk/printf): Custom printf method in C language
+- [Diabetes Prediction](https://github.com/Babigdk/diabetesprediction): meant for diabetes prediction
 
 Feel free to explore these projects and see the work I've done!
 
