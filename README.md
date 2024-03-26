@@ -7,6 +7,7 @@ I am a dedicated fullstack software engineer and computer scientist with a stron
 - 🎓 A certified Software engineer
 - 🎓 I have a Bachelor of Technology in Computer Science from ATBU.
 - 💼 I have work experience as a full-stack software engineer at ALX Africa
+- 💼 I have work experience as a Data Analyst/Data science at MERISKILL
 - 🔍 I'm interested in Frontend/Backend development, Artificial Intellenge, Data Science
 - 🌐 You can find more about me on my [LinkedIn](https://www.linkedin.com/in/abdulrazaq-babi-778960183).
 
@@ -23,6 +24,8 @@ Here are some of the technologies and programming languages I'm proficient in:
 - 🔧 Flask
 - 🔧 C
 - 🔧 SQL, NOSQL
+- 🔧 Power BI
+- 🔧 DJango
 
 ## Projects
 
